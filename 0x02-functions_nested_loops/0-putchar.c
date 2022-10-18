@@ -1,10 +1,12 @@
 #include "main.h"
 /**
  * main - print _putchar
- * header and code written by George
+ * written by George
  * Return: 0
  */
+
 int main(void)
+
 {
 _putchar('_');
 _putchar('p');
